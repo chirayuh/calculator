@@ -5,7 +5,7 @@ void main()
 	cin>>a;
 	cin>>b;
 	cout<<"enter your choice"<<endl;
-	cin<<ch;
+	cin>>ch;
 	switch(ch)
 	{
 		case '+':
