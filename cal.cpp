@@ -10,7 +10,7 @@ void sub(int a,int b)
 }
 void mul(int a,int b)
 {
-	cout<<a*b<<endl;
+	cout<<a%b<<endl;
 }
 void div(int a,int b)
 {
